@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+
+<header>
+    <title>
+        Search Result
+    </title>
+</header>
+
+<body>
+    <div class="container">
+        <li><a href="/">Back</a></li>
+        {% block content %}
+
+            {% if input != None %}
+                {% for doc in input %}
+                    <p>{{ doc }}</p>
+                {% endfor %}
+            {% else %}
+                <p>Sorry, no page matched your keyword</p>
+            {% endif %}
+            
+        {% endblock %}
+    </div>
+</body>
+
+</html>

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Assignment 3 - Web Spiders</title> 
+</head>
+
+<body>
+  <div class="container">
+    <h1>
+      <center>Web Spiders Search</center>
+    </h1>
+
+    {% block content %}
+    
+      {% for message in form.keyword.errors %}
+        <div class="flash">{{ message }}</div>
+      {% endfor %}
+
+      <div>
+        <form align="center" method=post>
+          {{ form.keyword.label }}
+          {{ form.keyword }}
+          {{ form.submit }}
+        </form>
+      </div>
+    
+    {% endblock %}
+
+  </div>
+</body>
+
+</html>

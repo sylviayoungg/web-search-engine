@@ -1,0 +1,60 @@
+Test search queries:
+
+machine learning 
+(we improved web page ranking by using cosine similarity)
+
+computer science 
+
+AI
+(we improved web page ranking by using cosine similarity)
+
+computer 
+
+master of software engineering
+(we improved web page ranking by using cosine similarity)
+
+donald bren hall
+
+undergraduate student 
+
+artificial intelligence
+(we improved web page ranking by using cosine similarity)
+
+quality assurance
+
+operating systems
+(we improved web page ranking by using cosine similarity)
+
+richard pattis 
+(we improved web page ranking by using cosine similarity)(showed his courses at top: ics 21,31,46)
+
+computer game science 
+
+game theory
+(we improved web page ranking by using cosine similarity)
+
+michael shindler
+(we improved web page ranking by using cosine similarity)(showed one of his courses at top: cs 269)
+
+women in computer science and engineering
+(we improved web page ranking by using cosine similarity)
+
+plagiarism software
+(we improved web page ranking by using cosine similarity)
+
+ubiquitous computing software
+(we improved web page ranking by using cosine similarity)
+
+software engineering
+
+minecraft
+
+web accessibility
+
+game design
+(we improved web page ranking by using cosine similarity)
+
+
+
+
+Note: That the majority of these searches didn't improve as much as the ones noted hence why we didn't mention/ comment on if they improved or not.
